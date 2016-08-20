@@ -1,2 +1,2 @@
 # abhidevsrepo
-Abhilash mandula devleoper's repository
+Abhilash mandula's dev repository
